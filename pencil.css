@@ -1,0 +1,32 @@
+h3 {
+color:azure;
+background-color:rgba(255, 197, 127, 0.458);
+height:40px;
+box-shadow:5px, 5px, 5px, rgb(254, 240, 157);
+font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+body {
+    background-size:cover;
+   
+}
+
+a {
+background-color:rgb(255, 199, 125);
+border-color:rgb(255, 208, 146);
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color:white;
+width:100px;
+height:50px;
+font-size:20px;
+margin-right: 790px;
+box-shadow:10px, 10px, 5px rgb(252, 240, 171);
+border-radius:5px;
+}
+
+h2 {
+    width:300px;
+    height: 40px;
+    color:white;
+}
